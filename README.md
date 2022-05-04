@@ -7,7 +7,7 @@ CSS<br />
 SASS <br />
 BOOTSTRAP<br />
 
-Live Demo (for my portfolio)<br />
+## Live Demo (for my portfolio)<br />
 https://josphat205.github.io/SmartDeveloper/<br />
 
 ## Getting Started<br />
