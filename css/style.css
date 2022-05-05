@@ -1,6 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
-  background-color: #150563;
+  background-color: #191765;
   color: #fff;
 }
 
@@ -19,7 +19,7 @@ nav a:hover {
 }
 
 h1 {
-  color: #73bbfa;
+  color: #9390ff;
   font-family: "Inter", sans-serif;
   font-weight: 900;
 }
@@ -51,6 +51,25 @@ img {
   height: auto;
 }
 
-#floatingTextarea2{
-  height: 136px;
+.sub-title {
+  font-weight: 900;
+  font-family: "Inter", sans-serif;
+}
+
+.lang {
+  color: #9390ff;
+  font-weight: 600;
+}
+
+.my-work-title {
+  font-size: 35px;
+  font-weight: 900;
+  font-family: "Inter", sans-serif;
+  color: #9390ff;
+}
+
+.tt {
+  font-weight: 600;
+  font-style: normal;
+  font-size: 15px;
 }
