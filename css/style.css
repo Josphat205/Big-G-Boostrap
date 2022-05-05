@@ -8,10 +8,12 @@ nav {
   width: 80%;
   margin: 0 auto;
 }
+
 nav a {
   color: #fff;
   opacity: 1;
 }
+
 nav a:hover {
   opacity: 0.6;
 }
@@ -49,4 +51,6 @@ img {
   height: auto;
 }
 
-/*# sourceMappingURL=style.css.map */
+#floatingTextarea2{
+  height: 136px;
+}
