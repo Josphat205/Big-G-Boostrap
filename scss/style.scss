@@ -1,9 +1,10 @@
 // font-family: 'Inter', sans-serif;
 // font-family: 'Oswald', sans-serif;
 // font-family: 'Roboto', sans-serif;
-$bg-color:#150563;
+$bg-color:#191765;
 $txt-color:#fff;
-$title-color:#73bbfa;
+$title-color:#9390ff;
+$sub-t-color:#9390ff;
 
 body {
   font-family: 'Roboto', sans-serif;
@@ -58,8 +59,25 @@ img {
   height: auto;
 }
 
-.vertical-line {
-  height: 5px;
-  width: 2px;
-  color: red;
+.sub-title {
+  font-weight: 900;
+  font-family: 'Inter', sans-serif;
+}
+
+.lang {
+  color: $sub-t-color;
+  font-weight: 600;
+}
+
+.my-work-title {
+  font-size: 35px;
+  font-weight: 900;
+  font-family: 'Inter', sans-serif;
+  color: $sub-t-color;
+}
+
+.tt {
+  font-weight: 600;
+  font-style: normal;
+  font-size: 15px;
 }
